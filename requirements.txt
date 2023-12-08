@@ -1,0 +1,4 @@
+pyrtlsdr
+scapy
+git+https://github.com/pybluez/pybluez.git#egg=pybluez
+numpy
